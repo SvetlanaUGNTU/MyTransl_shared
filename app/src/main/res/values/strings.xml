@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTransl_shared</string>
+    <string name="btn_show">Показать</string>
+    <string name="btn_add">Добавить</string>
+    <string name="text_view_translate">Перевод</string>
+    <string name="text_view_word">Слово</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="btn_direction">Сменить направление перевода</string>
+    <string name="find_text">ищу</string>
+    <string name="direct_translate_text">Направление перевода: C русского языка на иностранный</string>
+</resources>
